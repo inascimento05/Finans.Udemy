@@ -1,5 +1,5 @@
-Esse projeto foi criado com conhecimentos adquiridos no curso Desenvolvimento Web Completo 2021 da Plataforma Udemmy.
+Esse site foi criado com utilizando conhecimentos de HTML5 e CSS3.
 
-O projeto é um site fictício de divulgalação de um app fictício de finanças pessoais.
-Os textos utilizados foram retirados de um app já existe o Organize, apenas para fins didáticos.
-As imagens foram disponibilizadas na própria plataforma da Udemy.
+O objetivo era recriar o site do spotify utlizando os conhecimentos adquiridos no curso de Desenvolvimento Web Completo - 2021 da plataforma Udemy.
+
+As imagens e textos utilizados aqui foram retiradas do site do Spotify, não pode ser utilizada para fins comerciais. A utilizam se deu apenas para fins de aprendizado e pra deixar o site mais fiel.
